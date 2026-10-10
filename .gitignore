@@ -101,3 +101,10 @@ site/manuals-data.js
 site/manuals.html
 
 !manuals/*/capture/out/*.log
+
+.venv/
+__pycache__/
+.env
+*.pt
+*.pth
+*.safetensors
