@@ -108,3 +108,6 @@ __pycache__/
 *.pt
 *.pth
 *.safetensors
+
+/phases/00-setup-and-tooling/09-data-management/data/
+
