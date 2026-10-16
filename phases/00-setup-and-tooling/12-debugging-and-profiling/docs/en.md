@@ -8,7 +8,7 @@
 **Time:** ~60 minutes
 
 ## Learning Objectives
-
+.
 - Use conditional `breakpoint()` and `debug_print` to inspect tensor shapes, dtypes, and NaN values mid-training
 - Profile training loops with `cProfile`, `line_profiler`, and `tracemalloc` to find bottlenecks
 - Detect common AI bugs: shape mismatches, NaN loss, data leakage, and wrong-device tensors
